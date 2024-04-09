@@ -1,7 +1,5 @@
 # Covid-Data-Analysis
 
-It includes :
-
 1. Data Loading and Inspection:
     - Load the COVID-19 data from a CSV file into a pandas DataFrame.
     - Display the first few rows of the DataFrame to understand the structure of the data.
